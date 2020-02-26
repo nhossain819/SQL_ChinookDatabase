@@ -1,3 +1,5 @@
+Database: https://cdn.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
+
 -- Find all invoices for the salesman who yielded the greatest profit.
 
 SELECT *
