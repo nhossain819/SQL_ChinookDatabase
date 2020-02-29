@@ -1,3 +1,11 @@
+-- Database: https://cdn.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
+-- Database Schema: https://cdn.sqlitetutorial.net/wp-content/uploads/2018/03/sqlite-sample-database-diagram-color.pdf
+
+-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-- TASK: Find the total revenue by country of the top salesman.
+
+
 SELECT e.FirstName 
 	, e.LastName 
 	, i.BillingCountry 
