@@ -3,7 +3,7 @@
 
 -- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
--- Find all invoices for the salesman who yielded the greatest profit.
+-- TASK: Find all invoices for the salesman who yielded the greatest profit.
 
 SELECT *
 FROM invoices AS i
